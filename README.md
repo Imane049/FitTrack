@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fitness Tracking Application
 
 Fitness Tracking Application is a web application that allows users to track their workouts, daily macros, and calories. Users can create an account, log in, and utilize various features to monitor their fitness progress.
@@ -69,3 +70,6 @@ This will start the Fitness Tracking Application, including the Spring Boot back
 
 
 
+=======
+# FitTrack
+>>>>>>> 8ac7f772da1278e19cb8e2ffd18deed4bc5109e9
