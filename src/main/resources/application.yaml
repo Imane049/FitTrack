@@ -1,0 +1,6 @@
+
+jwt:
+  secret: 34872398FHDSFGSFGF78DSF376FSEFDSFGSF423GSDF
+  cookie:
+    name: subproblem
+    expirationDate: 86400000
